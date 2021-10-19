@@ -30,5 +30,5 @@ export const state = () => ({
 export const getters = {
   getPersonajes(state) {
     return state._personajes;
-  }
+  },
 }
